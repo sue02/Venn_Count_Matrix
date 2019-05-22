@@ -9,7 +9,7 @@ The dots represent which samples those numbers are present.
 
 `Using the count matrix generates venn diagram with genes that have mean normalixzed counts > 10 for each group.`  
 
-`optional arguments:'`   
+`optional arguments:`   
  ` -h, --help         show this help message and exit `     
  ` -i <inputfile>     input count file    `   
  ` -m <metadatafile>  metafile with description of samples   `  
