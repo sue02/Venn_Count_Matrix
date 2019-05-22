@@ -1,7 +1,7 @@
 # Venn_Count_Matrix
 The venn diagram is generated from the counts matrix.
 The bars represent the number of genes that are present in samples.
-The dots represent which samples those numbers are present.
+The dots represent in which samples those genes are present.
 
 ### Run from command line
 `python venn_count_matrix.py -h`  
@@ -17,5 +17,4 @@ The dots represent which samples those numbers are present.
  ` -p <pattern>       name given to pattern file   `     
  ` -o <outfiel>       figure name`             
   
-
 ![Figure](https://github.com/sue02/Venn_Count_Matrix/blob/master/figure.png)
